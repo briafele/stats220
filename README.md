@@ -15,7 +15,7 @@ This is my repo for my **STATS 220** work at the University of Auckland.
 
 Here is the course website: [University of Auckland](https://study.auckland.ac.nz/ords/r/uoa/catalogue/course?p6_code=STATS%20220)
 
-## How I currently feel about my studies:
+## How I currently feel about my studies
 ![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU4ZDdsZXViaDF0cnVnNWpoZDg3N2JycGtheGxxaGQ3Z3JwMXFkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZOrTflIqFmP0k/giphy.gif)
 
 
